@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imie: MyString
+  gatunek: MyString
+  rasa: MyString
+  data_ur: 2016-04-21
+
+two:
+  imie: MyString
+  gatunek: MyString
+  rasa: MyString
+  data_ur: 2016-04-21
